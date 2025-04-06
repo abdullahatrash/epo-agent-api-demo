@@ -16,8 +16,8 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "express-rate-limit": "^7.1.5",
-    "epo-ops-agent-toolkit": "^1.0.0",
-    "typescript-epo-ops-client": "^1.0.0"
+    "epo-ops-agent-toolkit": "github:abdullahatrash/epo-ops-agent-toolkit",
+    "typescript-epo-ops-client": "github:abdullahatrash/typescript-epo-ops-client"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
